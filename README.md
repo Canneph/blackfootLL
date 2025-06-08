@@ -1,5 +1,6 @@
 # Blackfoot Language Learning Program
 A language learning program made for Siksikáí'powahsin—the language of the Blackfoot.
+To launch the program, run **python main.py** in your terminal.
 
 Attributions:
 
